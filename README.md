@@ -1,4 +1,4 @@
-# logger
+# logger [![GoDoc][doc-img]][doc]
 Simple go-chi logging middleware for zap 
 
 ## Installation
@@ -39,3 +39,7 @@ func main() {
 ```
 {"level":"info","ts":1530826215.6541932, "msg":"Served","proto":"HTTP/1.1","path":"/","lat":0.032019407,"status":200,"size":7,"reqId":"localhost/FsNkQGYAQA-000036"}
 ```
+
+
+[doc-img]: https://godoc.org/github.com/Treastech/logger?status.svg
+[doc]: https://godoc.org/github.com/Treastech/logger
