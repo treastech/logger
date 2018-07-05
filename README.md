@@ -1,4 +1,4 @@
-# logger [![GoDoc][doc-img]][doc]
+# logger [![GoDoc][doc-img]][doc] [![Go Report Card](https://goreportcard.com/badge/github.com/Treastech/logger)](https://goreportcard.com/report/github.com/Treastech/logger)
 Simple go-chi logging middleware for zap 
 
 ## Installation
