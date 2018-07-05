@@ -1,9 +1,9 @@
-# logger [![GoDoc][doc-img]][doc] [![Go Report Card](https://goreportcard.com/badge/github.com/Treastech/logger)](https://goreportcard.com/report/github.com/Treastech/logger)
+# logger [![GoDoc][doc-img]][doc] [![Go Report Card](https://goreportcard.com/badge/github.com/treastech/logger)](https://goreportcard.com/report/github.com/treastech/logger)
 Simple go-chi logging middleware for zap 
 
 ## Installation
 ```bash
-go get github.com/Treastech/logger
+go get github.com/treastech/logger
 ```
 
 ## Usage
@@ -11,7 +11,7 @@ go get github.com/Treastech/logger
 package main
 
 import (
-	l "github.com/Treastech/logger"
+	l "github.com/treastech/logger"
 	"github.com/go-chi/chi"
 	"go.uber.org/zap"
 	"net/http"
@@ -41,5 +41,5 @@ func main() {
 ```
 
 
-[doc-img]: https://godoc.org/github.com/Treastech/logger?status.svg
-[doc]: https://godoc.org/github.com/Treastech/logger
+[doc-img]: https://godoc.org/github.com/treastech/logger?status.svg
+[doc]: https://godoc.org/github.com/treastech/logger
